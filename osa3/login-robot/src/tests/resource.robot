@@ -6,7 +6,7 @@ Input Login Command
     Input  login
 
 Input New Command
-    Input   register
+    Input   new
 
 Input Credentials
     [Arguments]  ${username}  ${password}
